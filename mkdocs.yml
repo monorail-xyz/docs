@@ -1,0 +1,28 @@
+site_name: Monorail Documentation
+site_url: https://docs.monorail.xyz
+theme:
+  name: material
+  logo: assets/monorail-white-icon.png
+  favicon: assets/favicon.ico
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: yellow
+  font:
+    text: Lato
+    code: Red Hat Mono
+  features:
+    - navigation.footer
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+copyright: Copyright &copy; 2025 Monorail
+extra:
+  social:
+    - icon: simple/x
+      link: https://twitter.com/monorail_xyz
