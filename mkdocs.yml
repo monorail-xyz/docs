@@ -2,16 +2,20 @@ site_name: Monorail Documentation
 site_url: https://docs.monorail.xyz
 theme:
   name: material
-  logo: assets/monorail-white-icon.png
+  custom_dir: overrides
+  logo: assets/monorail-yellow-icon.png
   favicon: assets/favicon.ico
   palette:
     scheme: slate
-    primary: deep purple
-    accent: yellow
+    primary: black
+    accent: amber
   font:
     text: Lato
     code: Red Hat Mono
   features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
     - navigation.footer
 markdown_extensions:
   - attr_list
