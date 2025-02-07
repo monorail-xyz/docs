@@ -53,6 +53,8 @@ nav:
       - Community:
           - testnet.md
           - discord.md
+  - Integration:
+      - integration/index.md
   - Technical Design:
       - solution/index.md
       - solution/unified-model.md
