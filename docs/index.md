@@ -1,23 +1,20 @@
 # Welcome to Monorail
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Monorail introduces an advancement in DeFi aggregation by unifying AMMs and orderbooks into a single, mathematically coherent liquidity framework.
 
-## Commands
+![Monorail venn diagram](assets/amm-ob-venn.png)
+/// caption
+Without Monorail, orderbooks and AMMs will stay isolated
+///
 
-- `mkdocs new [dir-name]` - Create a new project.
-- `mkdocs serve` - Start the live-reloading docs server.
-- `mkdocs build` - Build the documentation site.
-- `mkdocs -h` - Print help message and exit.
+## Key Features
 
-!!! note "Title of the callout"
+- Unified AMM and orderbook liquidity aggregation
+- Optimal routing with reduced slippage
+- Lower gas costs through efficient execution
+- Dynamic slippage protection
+- Protocol-agnostic framework
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+## Getting Started
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Start with our [introduction](introduction.md) to understand how Monorail transforms the aggregation landscape.

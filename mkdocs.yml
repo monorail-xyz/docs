@@ -13,20 +13,50 @@ theme:
     text: Lato
     code: Red Hat Mono
   features:
+    - navigation.sections
+    - navigation.expand
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.path
     - navigation.footer
+    - navigation.bottom
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - admonition
+  - pymdownx.blocks.caption
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+extra_css:
+  - stylesheets/extra.css
 copyright: Copyright &copy; 2025 Monorail
 extra:
   social:
     - icon: simple/x
       link: https://twitter.com/monorail_xyz
+  header:
+    return_to_app:
+      link: /
+      text: Back to App
+nav:
+  - Home:
+      - index.md
+      - introduction.md
+      - problem.md
+      - Community:
+          - testnet.md
+          - discord.md
+  - Technical Design:
+      - solution/index.md
+      - solution/unified-model.md
+      - solution/amm-decomposition.md
+      - solution/orderbook-integration.md
+      - solution/trade-routing.md
+  - Performance: performance.md
