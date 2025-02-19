@@ -4,12 +4,12 @@ Monorail is dedicated to realizing our vision of becoming the Homepage of Monad.
 
 !!! note "Please note"
 
-    This roadmap is subject to change as the Monad ecosystem develops
+    This roadmap is subject to change as the Monad ecosystem develops. More details about each version will be shared as we progress
 
 <div class="timeline">
     <div class="container left">
         <div class="content">
-            <div class="date">February 2025</div>
+            <div class="date">19 February 2025</div>
             <h2>Testnet launch</h2>
             <p>Monorail will go live on Monad testnet on day one</p>
         </div>

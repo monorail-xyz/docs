@@ -1,9 +1,9 @@
 # Monad Testnet
 
-The Monad testnet will be live soon, and Monorail will be the deployed and ready from day one!
+The Monad testnet go public on the 19th of February, and Monorail will be the deployed and ready from day one!
 
 ## Accessing Monorail
 
 Monorail is a web-app. You can access it at
 
-[testnet.monorail.xyz](https://testnet.monorail.xyz)
+[monorail.xyz](https://monorail.xyz)
