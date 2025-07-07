@@ -8,9 +8,13 @@ Our Discord is open for any one to join. You can join at
 
 [https://discord.monorail.xyz](https://discord.monorail.xyz)
 
+**The Railblazers**
+
+Our Discord has a special role available to anyone that can find the secret swap on Monorail. Head on over to our Discord for some clues!
+
 **Telegram OGs**
 
-The Monorail OG chat has been closed. Over the coming days we'll be sharing information on how to claim your OG role in Discord. If you are in the OG chat, do not leave just yet.
+The Monorail OG chat has been closed. Information on how to claim your OG Discord role is available on Telegram.
 
 <!-- ## Proof-of-use
 

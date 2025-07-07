@@ -1,6 +1,6 @@
 # Monad Testnet
 
-The Monad testnet go public on the 19th of February, and Monorail will be the deployed and ready from day one!
+The Monad testnet went public on the 19th of February 2025, and Monorail has been available since day one.
 
 ## Accessing Monorail
 

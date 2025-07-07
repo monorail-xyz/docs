@@ -8,6 +8,6 @@ At the moment, the Monorail team handles integrations with AMMs and orderbooks. 
 
 ## Using our API
 
-The Monorail API is currently unstable and not available to the public. If you are interested in using the API (experimentally or otherwise), please contact us on Telegram at [@donorail](https://t.me/donorail)
+The take advantage of Monorail's Synthetic Orderbooks, you can use our API to get quotes and route trades.
 
-As we approach Monad's mainnet launch, we will be releasing more information about the official API and how to use it.
+It is exclusively available through our [Developer Portal](https://monorail.xyz/developers) and is free to use.

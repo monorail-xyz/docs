@@ -7,9 +7,9 @@
 
 AMMs and orderbooks are typically seen as separate systems to trade on, introducing inefficiencies and complexity. Monorail takes a fundamentally different approach by transforming both market structures into a single, unified mathematical representation of liquidity.
 
-## Core Innovation
+## Core Innovation of Synthetic Orderbooks
 
-The core innovation lies in Monorail's liquidity decomposition method: rather than trying to adapt orderbook mechanics to continuous AMM curves, Monorail decomposes AMM liquidity functions into a model that can be directly compared to orderbooks.
+The core innovation in Monorail's synthetic orderbook lies in our liquidity decomposition method: rather than trying to adapt orderbook mechanics to continuous AMM curves, Monorail decomposes AMM liquidity functions into a model that can be directly compared to orderbooks.
 
 This creates a normalized representation that:
 
