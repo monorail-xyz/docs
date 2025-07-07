@@ -18,7 +18,7 @@ Monorail takes a fundamentally different approach to routing compared to traditi
 Monorail's latest v4 model (July 2025) has shown impressive results so far
 
 - 99.2% of executed quotes resulted in the exact amount quoted or higher
-- An average standard deviation of 0.034% across the most recent 100 000 trades
+- An average standard deviation of 0.34% across the most recent 100 000 trades
 
 We believe this shows that Monorail's Synthetic Orderbooks are a reliable and efficient routing solution.
 
