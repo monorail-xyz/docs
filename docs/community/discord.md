@@ -15,9 +15,3 @@ Our Discord has a special role available to anyone that can find the secret swap
 **Telegram OGs**
 
 The Monorail OG chat has been closed. Information on how to claim your OG Discord role is available on Telegram.
-
-<!-- ## Proof-of-use
-
-Once you have access to the Discord, you'll need to prove that you are a Monorail user.
-
-We'll be releasing information soon. -->

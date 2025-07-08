@@ -1,6 +1,6 @@
 # Introduction
 
-The coming launch of Monad's high-throughput chain creates an opportunity: for the first time, both automated market makers (AMMs) and traditional orderbooks can operate efficiently on-chain. However, this introduces a new challenge - with 10+ AMMs and 3+ on-chain orderbooks already announced, liquidity will be heavily fragmented across venues with fundamentally different market structures.
+The coming launch of Monad's high-throughput chain creates an opportunity: for the first time, both automated market makers (AMMs) and traditional orderbooks can operate efficiently on-chain. However, this introduces a new challenge - with 15+ AMMs and 5+ on-chain orderbooks already announced, liquidity will be heavily fragmented across venues with fundamentally different market structures.
 
 ## Overview
 

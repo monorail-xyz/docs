@@ -7,7 +7,7 @@ Monorail's execution algorithm analyzes available liquidity across all venues, s
 1. Walks through aggregated liquidity level by level
 2. Determines optimal order size for each venue
 3. Creates precise venue-by-venue breakdown
-4. Executes atomically through aggregation contract
+4. Executes atomically through our aggregation contract
 
 This ensures trades capture the best available liquidity while minimizing price impact.
 
@@ -24,7 +24,7 @@ For direct trading pairs:
 For complex trades:
 
 - Extends optimization across all viable paths between input/output tokens
-- Optimizes each leg individually using unified model
+- Optimizes each leg individually using the unified model
 - Considers complete liquidity landscape at each step
 - Finds best pricing across multiple hops
 

@@ -32,4 +32,4 @@ While existing chains have forced users to rely primarily on AMMs due to high ga
 - Route optimization must consider both immediate price impact and gas costs
 - Splitting orders across venues requires careful size optimization
 
-Monorail has create an innovative [solution](solution/index.md) to this problem, and for the first time, enables the integration of AMMs and orderbooks into a unified trading experience.
+Monorail has created an innovative [solution](solution/index.md) to this problem, and for the first time, enables the integration of AMMs and orderbooks into a unified trading experience.
