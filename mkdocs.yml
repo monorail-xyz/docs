@@ -52,7 +52,6 @@ nav:
       - introduction.md
       - problem.md
       - Community:
-          - community/roadmap.md
           - community/testnet.md
           - community/discord.md
   - Integration:
